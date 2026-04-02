@@ -1,7 +1,7 @@
 <div align="center">
   <h1>prompt: tell me about Joao</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Senior+AI+Engineer;Fine-Tunning+Multi+Modal;Context+Engineering;Research+&+Development)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Senior+AI+Engineer;Fine-Tunning+Multi+Modal;Context+Engineering;AI%20Research%20and%20Development%20%28R%26D%29)](https://git.io/typing-svg)
 
   [![GitHub followers](https://img.shields.io/github/followers/jmxt3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/jmxt3)
   [![GitHub User's stars](https://img.shields.io/github/stars/jmxt3?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/jmxt3)
