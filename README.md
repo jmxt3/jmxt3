@@ -48,9 +48,10 @@
 ## 🎯 Current Focus
 
 ```text
-🔭 Side project  Multi-Agent Orchestration Systems, RAGs, Generative AI
-💬 Ask me about  Google ADK, Gemini, Claude, AI Agents, Automation
-⚡ Fun fact      I mass-vibe-code with Gemini
+Living in the future  Learning and building tools to make agentic engineering faster for everyone
+Side project          Multi-Agent Orchestration Systems, Context Engineering, Generative AI, Agentic AI, Fine-Tunning Multi-modals
+Rapid prototyping     Full apps in days, not months
+Fun fact              I mass-vibe-code with Gemini
 ```
 
 ---
