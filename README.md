@@ -38,6 +38,7 @@
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmxt3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmachete/)
 
 </div>
@@ -47,5 +48,27 @@
 ## 🎯 Current Focus
 
 ```text
-🧠 R&D Focus                Multi-agent orchestration (A2A), MCP implementation, & RAG optimization
-⚡ Efficiency               Building the "AI Employee" — automating roles, not just tasks
+🔭 Side project  Multi-Agent Orchestration Systems, RAGs, Generative AI
+💬 Ask me about  Google ADK, Gemini, Claude, AI Agents, Automation
+⚡ Fun fact      I mass-vibe-code with Gemini
+```
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+*One must imagine a multi-agent system happy.*
+
+**🪨 The boulder never stops.**
+
+</div>
