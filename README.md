@@ -45,18 +45,16 @@
 
 ---
 
-## 🎯 Current Focus
-* **Architectures:** Multi-Agent Orchestration Systems & Agentic AI
-* **AI/ML Engineering:** Context Engineering & Fine-Tuning Multi-Modal Models
-* **Rapid Prototyping:** Delivering production-ready, full-stack applications in days, not months.
+## 🎯 Focus Areas
+* **Core Tech:** Multi-Agent Systems, Agentic AI, Context Engineering, & Multi-Modal Fine-Tuning.
+* **Velocity:** Rapid prototyping—building full-stack applications in days, not months.
 
-## Featured Projects
-* **Pixelwood.ai** – Advanced AI-powered visual engine designed for creative teams and cinematic production.
-* **Gitscape.ai** – Next-generation intelligent agentic engineering platforms.
-* **Edgeiot.com.br** – Scalable IoT solutions integrated with edge intelligence.
+## 🚀 Featured Projects
+* **Pixelwood.ai** – Cinematic AI visual engine for creative teams.
+* **Gitscape.ai** – Next-gen agentic engineering platform.
 
-## Technical Philosophy
-I leverage the synergistic power of advanced LLMs (like Gemini and Claude) through hyper-efficient "vibe-coding" paradigms to rapidly manifest complex architectures from concept to code.
+## ⚡ Technical Philosophy
+I leverage advanced LLMs (Gemini & Claude) via high-velocity "vibe-coding" to rapidly spin up complex architectures from concept to production.
 
 ---
 
