@@ -2,8 +2,6 @@
   <h1>prompt: tell me about Joao</h1>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Senior+AI+Engineer;Fine-Tunning+Multi+Modal;Context+Engineering;AI%20Research%20and%20Development%20%28R%26D%29)](https://git.io/typing-svg)
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=jmxt3&style=for-the-badge&color=blueviolet)](https://github.com/jmxt3)
 </div>
 
 ---
