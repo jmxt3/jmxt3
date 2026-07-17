@@ -1,3 +1,13 @@
+## 📈 Activity & Contributions
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmxt3&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🎯 Focus Areas
 * **Core Tech:** Multi-Agent Systems, Agentic AI, Context Engineering, Multi-Modal Fine-Tuning, Open Weights.
 * **Velocity:** Rapid prototyping—building full-stack applications in days, not months.
@@ -8,16 +18,6 @@
 
 ## ⚡ Technical Philosophy
 I leverage advanced LLMs via high-velocity "vibe-coding" to rapidly spin up complex architectures from concept to production (Python, Rust, Typescript).
-
----
-
-## 📈 Activity & Contributions
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmxt3&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
