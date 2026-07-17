@@ -1,7 +1,11 @@
 <div align="center">
-  <h1>prompt: tell me about Joao</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Senior+AI+Engineer;Fine-Tunning+Multi+Modal;Context+Engineering;AI%20Research%20and%20Development%20%28R%26D%29)](https://git.io/typing-svg)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/joao_on_x)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmxt3)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmachete/)
+
 </div>
 
 ---
