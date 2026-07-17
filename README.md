@@ -1,12 +1,13 @@
-<div align="center">
+## 🎯 Focus Areas
+* **Core Tech:** Multi-Agent Systems, Agentic AI, Context Engineering, Multi-Modal Fine-Tuning, Open Weights.
+* **Velocity:** Rapid prototyping—building full-stack applications in days, not months.
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/joao_on_x)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmxt3)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmachete/)
+## 🚀 Featured Projects
+* **Pixelwood.ai** – Cinematic AI visual engine for creative teams.
+* **Gitscape.ai** – Scan any agent skill — authored or compiled — for prompt injection, secrets, and malicious execution before it touches your agent. Or compile the long tail on the fly.
 
-</div>
+## ⚡ Technical Philosophy
+I leverage advanced LLMs via high-velocity "vibe-coding" to rapidly spin up complex architectures from concept to production (Python, Rust, Typescript).
 
 ---
 
@@ -23,24 +24,14 @@
 ## 📫 Connect With Me
 
 <div align="center">
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/joao_on_x)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmxt3)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmxt3)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmachete/)
 
 </div>
-
----
-
-## 🎯 Focus Areas
-* **Core Tech:** Multi-Agent Systems, Agentic AI, Context Engineering, Multi-Modal Fine-Tuning, Open Weights.
-* **Velocity:** Rapid prototyping—building full-stack applications in days, not months.
-
-## 🚀 Featured Projects
-* **Pixelwood.ai** – Cinematic AI visual engine for creative teams.
-* **Gitscape.ai** – Scan any agent skill — authored or compiled — for prompt injection, secrets, and malicious execution before it touches your agent. Or compile the long tail on the fly.
-
-## ⚡ Technical Philosophy
-I leverage advanced LLMs via high-velocity "vibe-coding" to rapidly spin up complex architectures from concept to production (Python, Rust, Typescript).
 
 ---
 
