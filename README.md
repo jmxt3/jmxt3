@@ -1,18 +1,9 @@
-## 📈 Activity & Contributions
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmxt3&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🎯 Focus Areas
 * **Core Tech:** Multi-Agent Systems, Agentic AI, Context Engineering, Multi-Modal Fine-Tuning, Open Weights.
 * **Velocity:** Rapid prototyping—building full-stack applications in days, not months.
 
 ## 🚀 Featured Projects
+* **jettOS.ai** – Speak to Talk, Speak to Edit, Speak to Ask
 * **Pixelwood.ai** – Cinematic AI visual engine for creative teams.
 * **Gitscape.ai** – Scan any agent skill — authored or compiled — for prompt injection, secrets, and malicious execution before it touches your agent. Or compile the long tail on the fly.
 
