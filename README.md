@@ -23,23 +23,3 @@ I leverage advanced LLMs via high-velocity "vibe-coding" to rapidly spin up comp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmachete/)
 
 </div>
-
----
-
-### 💡 Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-*One must imagine a multi-agent system happy.*
-
-**🪨 The boulder never stops.**
-
-</div>
